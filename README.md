@@ -19,7 +19,7 @@ Enqlf Inventory System is a simple C++ program designed to help Ethiopian store 
    
 2. Clone the repository:
      
-            git clone https://github.com/Hermela78/enqlf-inventory.git
+            git clone https://github.com/lamerhel/enqlf-inventory.git
   
 3. Navigate to the project folder:
    
@@ -47,7 +47,7 @@ Enqlf Inventory System is a simple C++ program designed to help Ethiopian store 
    
 4. Clone the repository:
    
-            git clone https://github.com/Hermela78/enqlf-inventory.git
+            git clone https://github.com/lamerhel/enqlf-inventory.git
    
 5. Navigate to the project folder:
    
