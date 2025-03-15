@@ -15,23 +15,23 @@ Enqlf Inventory System is a simple C++ program designed to help Ethiopian store 
 ### Linux (Ubuntu/Debian)
 1. Update package lists and install g++:
      
-            sudo apt update && sudo apt install g++ -y
+sudo apt update && sudo apt install g++ -y
    
 2. Clone the repository:
      
-            git clone https://github.com/lamerhel/enqlf-inventory.git
+git clone https://github.com/lamerhel/enqlf-inventory.git
   
 3. Navigate to the project folder:
    
-            cd enqlf-inventory
+cd enqlf-inventory
    
 4. Compile the program:
    
-            g++ inventory.cpp -o inventory
+g++ inventory.cpp -o inventory
    
 5. Run the program:
    
-            ./inventory
+./inventory
    
 
 ### Windows (Using MinGW)
@@ -43,23 +43,23 @@ Enqlf Inventory System is a simple C++ program designed to help Ethiopian store 
    - Add the MinGW \bin directory (e.g., C:\MinGW\bin)
 3. Open Command Prompt and verify installation:
    
-            g++ --version
+g++ --version
    
 4. Clone the repository:
    
-            git clone https://github.com/lamerhel/enqlf-inventory.git
+git clone https://github.com/lamerhel/enqlf-inventory.git
    
 5. Navigate to the project folder:
    
-            cd enqlf-inventory
+cd enqlf-inventory
     
 6. Compile the program:
    
-            g++ inventory.cpp -o inventory.exe
+g++ inventory.cpp -o inventory.exe
    
 7. Run the program:
    
-            inventory.exe
+inventory.exe
    
 
 ## Usage
