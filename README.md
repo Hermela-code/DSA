@@ -15,7 +15,7 @@ Enqlf Inventory System is a simple C++ program designed to help Ethiopian store 
 ### Linux (Ubuntu/Debian)
 1. Update package lists and install g++:
      
-sudo apt update && sudo apt install g++ -y
+     sudo apt update && sudo apt install g++ -y
    
 2. Clone the repository:
      
