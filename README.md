@@ -1,6 +1,6 @@
 # Hermela Inventory System
 
-Enqlf Inventory System is a simple C++ program designed to help Ethiopian store owners manage product sales and inventory efficiently. The system allows users to add products, track inventory, generate receipts, and view sales reports, all while maintaining an Ethiopian touch in the user interface.
+Hermela Inventory System is a simple C++ program designed to help Ethiopian store owners manage product sales and inventory efficiently. The system allows users to add products, track inventory, generate receipts, and view sales reports, all while maintaining an Ethiopian touch in the user interface.
 
 ## Features
 - Add up to 5 products with categories
