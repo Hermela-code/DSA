@@ -19,11 +19,11 @@ Hermela Inventory System is a simple C++ program designed to help Ethiopian stor
    
 2. Clone the repository:
      
-       git clone https://github.com/lamerhel/enqlf-inventory.git
+       git clone https://github.com/Hermela-code/DSA.git
   
 3. Navigate to the project folder:
    
-       cd enqlf-inventory
+       cd DSA
    
 4. Compile the program:
    
@@ -47,11 +47,11 @@ Hermela Inventory System is a simple C++ program designed to help Ethiopian stor
    
 4. Clone the repository:
    
-       git clone https://github.com/lamerhel/enqlf-inventory.git
+       git clone https://github.com/Hermela-code/DSA.git
    
 5. Navigate to the project folder:
    
-       cd enqlf-inventory
+       cd DSA
     
 6. Compile the program:
    
